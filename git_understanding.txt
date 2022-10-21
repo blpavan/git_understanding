@@ -10,3 +10,5 @@ Step 2: git add .
 instead of . you can specify specific file/folder to include it for the commit.
 
 After the files are added, if there are no changes, we can commit the file.
+
+in between any time, you can use git status command to check the status of git.
