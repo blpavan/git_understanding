@@ -18,3 +18,25 @@ Step 3: git commit -m "your changes info"
 Step 4: Done
 
 Step 5: Nothing to do
+
+Local git ||| Remote git
+commit 1
+commit 2
+commit 3
+push -----> c1, c2, c3
+commit 4
+commit 5
+push -------> c4, c5 - (c6, c7)
+commit 6
+pull <------- c6, c7
+push ------> c6, c7, c8
+
+
+
+
+----Surya
+Local             Remote
+pull - c4, c5
+commit 6
+commit 7
+push --------->  c6, c7
