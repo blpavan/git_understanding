@@ -14,3 +14,7 @@ After the files are added, if there are no changes, we can commit the file.
 in between any time, you can use git status command to check the status of git.
 
 Step 3: git commit -m "your changes info"
+
+Step 4: Done
+
+Step 5: Nothing to do
