@@ -1,0 +1,12 @@
+Step 1. git init
+telling the git to initialize in specific directory. now git will initialize all its necessary files in the .git directory.
+
+After initializing git, we need to tell git, on what files to be included for the commit
+(or what files are needed to track.)
+
+
+Step 2: git add .
+. denotes all files and folders to be added for the commit/tracking.
+instead of . you can specify specific file/folder to include it for the commit.
+
+After the files are added, if there are no changes, we can commit the file.
